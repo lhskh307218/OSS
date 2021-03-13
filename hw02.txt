@@ -10,3 +10,4 @@ it is second
 branch_1: 1st modified in local
 branch_1: 2nd modified in local
 branch_2: 1st modified
+branch_2: 2nd modified
